@@ -6,5 +6,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3870-count-commas-in-range](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
