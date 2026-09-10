@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1952-three-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3044-most-frequent-prime](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3044-most-frequent-prime) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3870-count-commas-in-range](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3044-most-frequent-prime](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3044-most-frequent-prime) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1952-three-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3044-most-frequent-prime](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3044-most-frequent-prime) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Prime Factorization
 |  |
 | ------- |
