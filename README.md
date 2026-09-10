@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0866-prime-palindrome](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0866-prime-palindrome) |
 | [1952-three-divisors](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1952-three-divisors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3044-most-frequent-prime](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
