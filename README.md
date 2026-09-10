@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3044-most-frequent-prime](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3044-most-frequent-prime](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3044-most-frequent-prime) |
 ## Counting
 |  |
