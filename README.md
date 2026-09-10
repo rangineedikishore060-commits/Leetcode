@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0342-power-of-four) |
 | [0866-prime-palindrome](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0866-prime-palindrome) |
 | [1952-three-divisors](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1952-three-divisors) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -111,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
