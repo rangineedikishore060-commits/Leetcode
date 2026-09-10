@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0866-prime-palindrome) |
 | [1952-three-divisors](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1952-three-divisors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0866-prime-palindrome) |
 | [1952-three-divisors](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1952-three-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
