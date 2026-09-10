@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1389-create-target-array-in-the-given-order](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0258-add-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
