@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3044-most-frequent-prime](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3044-most-frequent-prime) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1952-three-divisors) |
 | [3044-most-frequent-prime](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3044-most-frequent-prime) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
