@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3044-most-frequent-prime](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3044-most-frequent-prime) |
