@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1672-richest-customer-wealth) |
