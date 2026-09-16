@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
