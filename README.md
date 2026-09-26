@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3044-most-frequent-prime](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3044-most-frequent-prime) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0258-add-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [2553-separate-the-digits-in-an-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
