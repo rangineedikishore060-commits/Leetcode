@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3871-count-commas-in-range-ii) |
+| [3895-count-digit-appearances](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3895-count-digit-appearances](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3895-count-digit-appearances) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Hash Table
 |  |
