@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0020-valid-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -213,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
