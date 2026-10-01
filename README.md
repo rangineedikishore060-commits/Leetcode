@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3044-most-frequent-prime](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3044-most-frequent-prime) |
+| [3146-permutation-difference-between-two-strings](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3146-permutation-difference-between-two-strings](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
 | ------- |
