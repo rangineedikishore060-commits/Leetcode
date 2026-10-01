@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0051-n-queens](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0051-n-queens) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -222,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
