@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3044-most-frequent-prime](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3044-most-frequent-prime) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rangineedikishore060-commits/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
